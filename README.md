@@ -21,10 +21,20 @@ Passionate about exploring new technologies, solving challenging problems, and c
 🔧 **Tools:** Git • GitHub • VS Code • Postman • Figma (Basic)  
 🧠 **Core Skills:** Networking • Operating Systems • SDLC • Debugging
 
-## 📫 Let's Connect
+## 📫 Connect with me
 
-💼 **LinkedIn:** https://linkedin.com/in/your-profile  
-📸 **Instagram:** https://instagram.com/your-profile  
-🌐 **Portfolio:** https://your-website.com  
+<p align="center">
 
-💬 Open for Freelance Projects & Collaborations 🚀
+<a href="https://linkedin.com/in/your-profile" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+
+<a href="https://instagram.com/your-profile" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+</a>
+
+<a href="https://your-website.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" />
+</a>
+
+</p>
