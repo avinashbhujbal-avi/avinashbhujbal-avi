@@ -14,11 +14,7 @@ Passionate about exploring new technologies, solving challenging problems, and c
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
-</p>
-## 🛠️ Tech Stack
+
 
 ### 🎨 Frontend
 <p align="left">
@@ -28,10 +24,12 @@ Passionate about exploring new technologies, solving challenging problems, and c
   <img src="https://skillicons.dev/icons?i=threejs" width="40" /> Three.js  
 </p>
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" /> Node.js  
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" /> MongoDB  
-  <img src="https://skillicons.dev/icons?i=docker" width="40" /> Docker  
-  <img src="https://skillicons.dev/icons?i=redis" width="40" /> Redis  
-</p>
+## ⚙️ Backend
+
+Node.js • Express.js • MongoDB • Redis • Docker  
+
+🔹 REST API Development  
+🔹 Authentication & Authorization (JWT, Role-based access)  
+🔹 Database Design & Optimization  
+🔹 Caching Strategies (Redis)  
+🔹 Scalable Backend Architecture  
