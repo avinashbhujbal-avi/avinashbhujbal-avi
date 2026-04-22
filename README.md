@@ -7,6 +7,16 @@
 </p>
 
 
-## 👨‍💻 About Me
+##  About Me
 Full Stack MERN Developer focused on building real-world, scalable, and high-performance web applications.  
 Passionate about exploring new technologies, solving challenging problems, and creating impactful digital solutions.
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" width="40" /> React  
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" /> Next.js  
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> Tailwind CSS  
+  <img src="https://skillicons.dev/icons?i=threejs" width="40" /> Three.js  
+</p>
