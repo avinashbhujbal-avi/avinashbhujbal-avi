@@ -23,6 +23,8 @@ Passionate about exploring new technologies, solving challenging problems, and c
 
 ## 📫 Connect with me
 
+## 📫 Connect with me
+
 <p align="center">
 
 <a href="https://linkedin.com/in/your-profile" target="_blank">
