@@ -5,5 +5,7 @@
     style="width:100%; height:200px; object-fit:cover;" 
   />
 </p>
-## Full Stack MERN Developer focused on building real-world, scalable, and high-performance web applications.  
-## Passionate about exploring new technologies, solving challenging problems, and creating impactful digital solutions.
+## 👨‍💻 About Me
+
+Full Stack MERN Developer focused on building real-world, scalable, and high-performance web applications.  
+Passionate about exploring new technologies, solving challenging problems, and creating impactful digital solutions.
