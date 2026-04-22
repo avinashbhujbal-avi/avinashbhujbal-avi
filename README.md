@@ -1,3 +1,3 @@
-hi i Avinash ,
+👋 Hi, I'm Avinash**This is bold**
 
 
