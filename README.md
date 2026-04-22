@@ -17,10 +17,12 @@ Passionate about exploring new technologies, solving challenging problems, and c
 
 
 ### 🎨 Frontend
-<p align="left" display="flex" justify-item="center">
+<div align="center">
+
   <img src="https://skillicons.dev/icons?i=react" width="40" /> React  
   <img src="https://skillicons.dev/icons?i=nextjs" width="40" /> Next.js  
   <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> Tailwind CSS  
   <img src="https://skillicons.dev/icons?i=threejs" width="40" /> Three.js  
-</p>
+
+</div>
 
