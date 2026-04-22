@@ -20,3 +20,11 @@ Passionate about exploring new technologies, solving challenging problems, and c
 ⚙️ **Backend:** Node.js • Express.js • REST APIs • MongoDB  
 🔧 **Tools:** Git • GitHub • VS Code • Postman • Figma (Basic)  
 🧠 **Core Skills:** Networking • Operating Systems • SDLC • Debugging
+
+## 📫 Let's Connect
+
+💼 **LinkedIn:** https://linkedin.com/in/your-profile  
+📸 **Instagram:** https://instagram.com/your-profile  
+🌐 **Portfolio:** https://your-website.com  
+
+💬 Open for Freelance Projects & Collaborations 🚀
