@@ -12,17 +12,25 @@ Full Stack MERN Developer focused on building real-world, scalable, and high-per
 Passionate about exploring new technologies, solving challenging problems, and creating impactful digital solutions.
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+### 💻 Programming Language
+JavaScript
 
+---
 
+### 🎨 Frontend Development
+React.js • HTML5 • CSS3 • Tailwind CSS • GSAP
 
-### 🎨 Frontend
-<div align="center">
+---
 
-  <img src="https://skillicons.dev/icons?i=react" width="40" /> React  
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" /> Next.js  
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> Tailwind CSS  
-  <img src="https://skillicons.dev/icons?i=threejs" width="40" /> Three.js  
+### ⚙️ Backend Development
+Node.js • Express.js • REST APIs • MongoDB
 
-</div>
+---
 
+### 🔧 Tools & IDEs
+Git • GitHub • VS Code • Postman • Figma (Basic)
+
+---
+
+### 🧠 Core IT Skills
+Networking • Operating Systems • SDLC • Version Control • Debugging
