@@ -1,4 +1,2 @@
-👋 Hi, I'm Avinash**This is bold**
+# 👋 **Hi, I'm Avinash**
 
-
-![Badge](https://img.shields.io/badge/MERN-Stack-blue)
