@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1522071820081-009f0129c71c"
+    src="https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg"
     style="width:100%; height:300px; object-fit:cover;" 
   />
 </p>
