@@ -12,11 +12,9 @@ Full Stack MERN Developer focused on building real-world, scalable, and high-per
 Passionate about exploring new technologies, solving challenging problems, and creating impactful digital solutions.
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" width="40" /> React  
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" /> Next.js  
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> Tailwind CSS  
-  <img src="https://skillicons.dev/icons?i=threejs" width="40" /> Three.js  
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
 </p>
