@@ -11,12 +11,12 @@
 Full Stack MERN Developer focused on building real-world, scalable, and high-performance web applications.  
 Passionate about exploring new technologies, solving challenging problems, and creating impactful digital solutions.
 
-## 🛠️ Tech Stack
+
 ## 🛠️ Tech Stack
 
-💻 **JavaScript**
+💻**Language** JavaScript
 
-🎨 **Frontend:** React.js • HTML5 • CSS3 • Tailwind CSS • GSAP  
+🎨 **Frontend:** React.js,Next.js,HTML5 , CSS3 ,Tailwind CSS , GSAP  
 ⚙️ **Backend:** Node.js • Express.js • REST APIs • MongoDB  
 🔧 **Tools:** Git • GitHub • VS Code • Postman • Figma (Basic)  
 🧠 **Core Skills:** Networking • Operating Systems • SDLC • Debugging
