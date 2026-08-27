@@ -1,4 +1,4 @@
-# 👋 **Hi, I'm Avinash**
+#  **Hi, I'm Avinash**
 <p align="center">
   <img 
     src="https://github.com/avinashbhujbal-avi/avinashbhujbal-avi/blob/main/Avinash%20Bhujbal%20(1).png"
